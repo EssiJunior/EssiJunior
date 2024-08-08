@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="./me.png">
+  <img align="right" width="40%" src="./me.png" alt="my image">
 </div>
 
 <!--Header Name-->
