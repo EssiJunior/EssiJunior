@@ -8,7 +8,7 @@
 
 <!--Header Name-->
 #<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> ɪ'ᴍ Essi Junior! 
-*(Developer / Programmer) and software engineer*
+Software Developer and software engineer*
 <br /> 
 
 <!--Start Intro-->               
