@@ -7,8 +7,8 @@
 </div>
 
 <!--Header Name-->
-#<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> ɪ'ᴍ Essi Junior! 
-Software Developer and software engineer*
+#<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> I'M Essi Junior! 
+Software Developer and engineer*
 <br /> 
 
 <!--Start Intro-->               
