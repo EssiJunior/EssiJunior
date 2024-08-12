@@ -14,7 +14,7 @@ Software Developer and engineer*
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Next.js, Node.js, React-native, Mongo.db and software project management. </p>
 
-- ✨ As long as i have hands, i can code anything.
+- ✨ As long as I have hands,I can code anything.
 - 🌱 I like challenges
 - ❤ I really love programming
 - 💻 Visit my [Portfolio](https://essijunior.com) for more details about my skills.
