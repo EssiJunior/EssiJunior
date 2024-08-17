@@ -1,7 +1,6 @@
 <!--Banner-->
 ![EssiJunior Banner Image](./Life.js.gif)
 
-<!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="./me.png" alt="my image" title="my image">
 </div>
