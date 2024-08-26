@@ -15,7 +15,7 @@ Software Developer and Engineer*
 - 🌱 I like challenges
 - ❤ I really love programming
 - 💻 Visit my [Portfolio](https://essijunior.com) for more details about my skills.
-<!--End Intro-->
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++,;+Fullstack+Developer,;Software+Engineering+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
