@@ -6,7 +6,7 @@
 </div>
 
 #<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> I'M Essi Junior! 
-Software Developer and Engineer*
+Software Developer and Engineer
 <br /> 
               
 <p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Next.js, Node.js, React-native, Mongo.db and software project management. </p>
