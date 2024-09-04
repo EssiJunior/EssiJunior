@@ -1,4 +1,4 @@
-<!--Banner-->
+
 ![EssiJunior Banner Image](./Life.js.gif)
 
 <div>
