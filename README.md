@@ -5,7 +5,7 @@
   <img align="right" width="40%" src="./me.png" alt="my image" title="my image">
 </div>
 
-#<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> I'M Essi Junior! 
+##<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> I'M Essi Junior! 
 Software Developer and Engineer
 <br /> 
               
