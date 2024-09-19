@@ -9,7 +9,7 @@
 Software Developer and Engineer
 <br /> 
               
-<p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Next.js, Node.js, React-native, Mongo.db and software project management. </p>
+<p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Next.js, Node.js, React-native and software project management. </p>
 
 - ✨ As long as I have hands,I can code anything.
 - 🌱 I like challenges
