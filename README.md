@@ -1,42 +1,18 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ESSI Junior
+===================================================================================================================================
 
-![EssiJunior Banner Image](./Life.js.gif)
+Software developer, and tech instructor.
+----------------------------------------
 
-<div>
-  <img align="right" width="40%" src="./me.png" alt="my image" title="my image">
-</div>
+Since 3 years, I've been developing web and mobile applications using Python and JavaScript mostly. I have expertise in React, React Native, Next.js, Node.js, FastAPI and related packages. I recently worked as a web instructor and database instructor. Much more details in my Portfolio and resume.
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="30px"> I'M Essi Junior! 
-Software Developer and Engineer
-<br /> 
-              
-<p align="left">I am a Full Stack Developer with a huge love for FastAPI, React.js, Next.js, Node.js, React-native and software project management. </p>
-
-- ✨ As long as I have hands, I can code anything.
-- 🌱 I like challenges
-- ❤ I really love programming
-- 💻 Visit my [Portfolio](https://essijunior.com) for more details about my skills.
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=40&center=true&vCenter=true&width=800&height=100&lines=Code+is+Life..&hearts;++,;+Fullstack+Developer,;Software+Engineering+Student,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-<h3 align="center">
-        <samp> Hello ! I am
-                <b> Essi Junior <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="15" /> </b>
-        </samp>
-</h3>
-
-<p align="center">
- <a href="https://twitter.com/EssiJunior7" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://www.instagram.com/essijunior_21" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-e1306c?style=for-the-badge&logo=instagram&logoColor=white" alt="EssiJunior" />
- </a> 
-  <a href="https://t.me/ESSI_Junior" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-0088b9.svg?style=for-the-badge&logo=telegram&logoColor=#0088b9" alt="Essi Junior"  />
-  </a> 
-</p>
+* 🌍  I'm based in Cameroon
+* 🖥️  See my portfolio at [My portfolio](http://essijunior.com)
+* ✉️  You can contact me at [nessipjunior@gmail.com](mailto:nessipjunior@gmail.com)
+* 🚀  I'm currently working on [Flikart website](http://flikart.org)
+* 🧠  I'm learning UI/UX
+* 🤝  I'm open to collaborating on innovative projects
+* ⚡  I like football.
 <br />
 
 
