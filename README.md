@@ -39,11 +39,11 @@ Since 3 years, I've been developing web and mobile applications using Python and
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EssiJunior&theme=radical&border=7F3FBF&background=0D1117" alt="Al Mahdi's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=EssiJunior&theme=radical&border=7F3FBF&background=0D1117" alt="Essi Junior's GitHub Streak" />
 </p>
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EssiJunior&theme=radical" alt="Al Mahdi's GitHub Contribution" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EssiJunior&theme=radical" alt="Essi Junior's GitHub Contribution" />
 </p>
 
 <p align="center">
