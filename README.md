@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software developer, and tech instructor.
 ----------------------------------------
 
-Since 3 years, I've been developing web and mobile applications using Python and JavaScript mostly. I have expertise in React, React Native, Next.js, Node.js, FastAPI and related packages. I recently worked as a web instructor and database instructor. Much more details in my Portfolio and resume.
+Since 3 years, I've been developing web, mobile and desktop applications using fastapi and JavaScript mostly. I have expertise in React, React Native, Next.js, Node.js, FastAPI,Laravel and related packages. I recently worked as a web instructor. Much more details in my Portfolio and resume.
 
 * 🌍  I'm based in Cameroon
 * 🖥️  See my portfolio at [My portfolio](http://essijunior.com)
 * ✉️  You can contact me at [nessipjunior@gmail.com](mailto:nessipjunior@gmail.com)
-* 🚀  I'm currently working on [Flikart website](http://flikart.org)
+* 🚀  I'm currently working on a Next.js static site
 * 🧠  I'm learning UI/UX
 * 🤝  I'm open to collaborating on innovative projects
 * ⚡  I like football.
@@ -21,8 +21,12 @@ Since 3 years, I've been developing web and mobile applications using Python and
 <div align="center">
         
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&labelColor=yellow&logo=python&logoColor=blue)
+![fastapi](https://img.shields.io/badge/fastapi-blue?style=for-the-badge&labelColor=yellow&logo=fastapi&logoColor=blue)
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![react.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/react.js-blue?style=for-the-badge&logo=react&logoColor=white)
+![Express.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +34,6 @@ Since 3 years, I've been developing web and mobile applications using Python and
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -58,9 +61,5 @@ Since 3 years, I've been developing web and mobile applications using Python and
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=EssiJunior&custom_title=Essi%Junior's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Essi Junior's Graph" />
 </p>
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=500&&section=footer"/>
-</p>
-
 ---
 
