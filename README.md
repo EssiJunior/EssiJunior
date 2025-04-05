@@ -16,7 +16,7 @@ Since 3 years, I've been developing web, mobile and desktop applications using p
 <br />
 
 
-<h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
+<h2 align="center" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
 
 <div align="center">
         
@@ -39,7 +39,7 @@ Since 3 years, I've been developing web, mobile and desktop applications using p
 
 </div>
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats </h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55"> <span>Github Stats</span></h2>
 
 <p align="center">
     <img src="https://streak-stats.vercel.app/?user=EssiJunior&theme=radical&border=7F3FBF&background=0D1117" alt="Essi Junior's GitHub Streak" />
@@ -62,4 +62,3 @@ Since 3 years, I've been developing web, mobile and desktop applications using p
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=EssiJunior&custom_title=Essi%Junior's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Essi Junior's Graph" />
 </p>
 ---
-
