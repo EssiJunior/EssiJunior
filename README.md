@@ -1,5 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am ESSI Junior
-===================================================================================================================================
+==============================================================================================================================
 
 Software developer, and instructor.
 -----------------------------------
@@ -61,4 +61,3 @@ Since 3 years, I've been developing web, mobile and desktop applications using p
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=EssiJunior&custom_title=Essi%Junior's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Essi Junior's Graph" />
 </p>
----
