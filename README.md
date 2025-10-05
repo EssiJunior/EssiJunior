@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am ESSI Junior
 ==============================================================================================================================
 
-Software developer, and instructor.
+Software developer, and IT instructor.
 -----------------------------------
 
 Since 4 years, I've been developing web, mobile and desktop applications using python, JavaScript and php. I have expertise in React, React Native, Next.js, Node.js, FastAPI, Laravel, related packages and Wordpress. I recently worked as a web instructor. Much more details in my Portfolio and resume.
@@ -9,7 +9,6 @@ Since 4 years, I've been developing web, mobile and desktop applications using p
 * 🌍  I'm based in Cameroon
 * 🖥️  See my portfolio at [My portfolio](http://essijunior.com)
 * ✉️  You can contact me at [nessipjunior@gmail.com](mailto:nessipjunior@gmail.com)
-* 🚀  I'm currently working on a Next.js static site
 * 🧠  I'm learning UI/UX
 * 🤝  I'm open to collaborating on innovative projects
 * ⚡  I like football.
