@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am ESSI Junior
 ==============================================================================================================================
 
-Software developer, and IT instructor.
------------------------------------
+Software developer, and IT instructor. (~4 years)
+------------------------------------------------
 
 Since 4 years, I've been developing web, mobile and desktop applications using python, JavaScript and php. I have expertise in React, React Native, Next.js, Node.js, FastAPI, Laravel, related packages and Wordpress. I recently worked as we fulstack developer and IT instructor. Much more details in my Portfolio and resume.
 
