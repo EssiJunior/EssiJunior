@@ -10,8 +10,8 @@ Since 4 years, I've been developing web, mobile and desktop applications using p
 
 * 🌍  I'm based in Cameroon
 * 🖥️  See my portfolio at [My portfolio](http://essijunior.com)
-* ✉️  You can contact me at [nessipjunior@gmail.com](mailto:nessipjunior@gmail.com)
-* 🧠  I'm learning UI/UX
+* ✉️  You can contact me at [dev@essijunior.com](mailto:dev@essijunior.com)
+* 🧠  I'm learning UI/UX and graphic design
 * 🤝  I'm open to collaborating on innovative projects
 * ⚡  I like football.
 <br />
