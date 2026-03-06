@@ -12,7 +12,7 @@ Since 4 years, I've been developing web, mobile and desktop applications using p
 * 🖥️  See my portfolio at [My portfolio](http://essijunior.com)
 * ✉️  You can contact me at [dev@essijunior.com](mailto:dev@essijunior.com)
 * 🧠  I'm learning UI/UX and graphic design
-* 🤝  I'm in Python Cameroon community
+* 🤝  I'm Graphic designer at Python Cameroon community
 * ⚡  I like football.
 <br />
 
