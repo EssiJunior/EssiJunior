@@ -2,7 +2,7 @@
 
 <img width="1584" height="396" alt="www ESSIJUNIOR com" src="https://github.com/user-attachments/assets/c2ffff72-0c14-495a-a6c9-bd16f52bd5f6" />
 
-Since 4 years, I've been developing web, mobile and desktop applications using python, JavaScript and php. I have expertise in React, React Native, Next.js, Node.js, FastAPI, related packages and a bit of Wordpress. 
+During 4 years, I've been developing web, mobile and desktop applications using python, JavaScript and php. I have expertise in React, React Native, Next.js, Node.js, FastAPI, related packages and a bit of Wordpress. 
 
 * 🌍  I'm based in Cameroon
 * 🖥️  See my portfolio at [My portfolio](http://essijunior.com)
