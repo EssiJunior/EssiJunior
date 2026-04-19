@@ -5,7 +5,7 @@
 During 4 years, I've been developing web, mobile and desktop applications using python, JavaScript and php. I have expertise in React, React Native, Next.js, Node.js, FastAPI, related packages and a bit of Wordpress. 
 
 * 🌍  I'm based in Cameroon
-* 🖥️  See my portfolio at [My portfolio](http://essijunior.com)
+* 🖥️  See [My portfolio](http://essijunior.com)
 * ✉️  You can contact me at [dev@essijunior.com](mailto:dev@essijunior.com)
 * 🧠  I'm learning photography
 * 🧠  I'm learning UI/UX and graphic design
