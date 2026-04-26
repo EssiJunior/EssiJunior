@@ -36,6 +36,7 @@ During 4 years, I've been developing web, mobile and desktop applications using 
 
 </div>
 
+<br />
 <h2 align="center"><span>Github Stats</span></h2>
 
 <p align="center">
