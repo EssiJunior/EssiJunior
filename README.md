@@ -15,7 +15,7 @@ During 4 years, I've been developing web, mobile and desktop applications using 
 * ⚡  I like football.
 
 <br />
-<h2 align="center" ><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills</h2>
+<h2 align="center" >Skills</h2>
 
 <div align="center">
         
@@ -36,7 +36,7 @@ During 4 years, I've been developing web, mobile and desktop applications using 
 
 </div>
 
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55"> <span>Github Stats</span></h2>
+<h2 align="center"><span>Github Stats</span></h2>
 
 <p align="center">
     <img src="https://streak-stats.vercel.app/?user=EssiJunior&theme=radical&border=7F3FBF&background=0D1117" alt="Essi Junior's GitHub Streak" />
